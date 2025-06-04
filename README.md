@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Notes App
 # Introduction
 A web application with **CRUD** (Create, Retrieve, Update, Delete) functionality built using **MERN** stack (MongoDB, Express, React, Node.js) that allows the user to view, create, update and delete notes in the form of visual cards.
@@ -98,3 +99,7 @@ All methods send appropriate status messages (successful/unsuccessful) upon comp
 ## Deployment
  - The backend API is deployed on [Cyclic.sh](https://www.cyclic.sh/)
  - The frontend is deployed on [Vercel](https://vercel.com/)
+=======
+# Dev_ops
+first code 
+>>>>>>> 2452e8ba328634eecaf41051088a1ae3073cc5d5
